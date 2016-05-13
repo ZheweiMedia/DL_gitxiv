@@ -6,3 +6,7 @@ https://github.com/rbgirshick/py-faster-rcnn
 
 3. Conditional Random Fields as Recurrent Neural Networks
 https://github.com/torrvision/crfasrnn
+
+4. Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
+https://bitbucket.org/deeplab/deeplab-public/
+https://github.com/TheLegendAli/DeepLab-Context
