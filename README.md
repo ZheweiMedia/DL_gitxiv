@@ -2,4 +2,4 @@
 https://github.com/HyeonwooNoh/DeconvNet
 
 2. Fast R-CNN: Fast Region-based Convolutional Networks for object detection
-https://github.com/rbgirshick/fast-rcnn
+https://github.com/rbgirshick/py-faster-rcnn
