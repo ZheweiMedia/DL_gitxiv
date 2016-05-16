@@ -15,3 +15,7 @@ https://github.com/torrvision/crfasrnn
 https://bitbucket.org/deeplab/deeplab-public/
 
 https://github.com/TheLegendAli/DeepLab-Context
+
+5. Variational Auto-encoder
+
+https://github.com/y0ast/Variational-Autoencode
